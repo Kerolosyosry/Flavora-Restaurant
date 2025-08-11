@@ -34,7 +34,7 @@
 
 ---
 
-## <a name="introduction">🍴 Introduction</a>
+### <a name="introduction">🍴 Introduction</a>
 
 **Flavor Fusion** is a modern and fully responsive restaurant website designed to give visitors an immersive experience — from mouth-watering visuals to a smooth navigation flow.  
 It includes interactive menu filtering, scroll-triggered animations, and a clean design that adapts to any device.
@@ -43,7 +43,7 @@ The goal? **A visually stunning, highly functional, and mobile-friendly restaura
 
 ---
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+### <a name="tech-stack">⚙️ Tech Stack</a>
 
 
 - **[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)** – Semantic, SEO-friendly structure.  
@@ -53,7 +53,7 @@ The goal? **A visually stunning, highly functional, and mobile-friendly restaura
 
 ---
 
-## <a name="features">✨ Features</a>
+### <a name="features">✨ Features</a>
 
 👉 **Responsive Design** – Optimized for desktop, tablet, and mobile devices.  
 👉 **Sticky Navigation & Scroll Effects** – Changes header style when scrolling.  
@@ -64,7 +64,7 @@ The goal? **A visually stunning, highly functional, and mobile-friendly restaura
 
 ---
 
-## <a name="quick-start">🤸 Quick Start</a>
+### <a name="quick-start">🤸 Quick Start</a>
 
 **Prerequisites**  
 You’ll need a modern browser and a code editor like [VS Code](https://code.visualstudio.com/).
