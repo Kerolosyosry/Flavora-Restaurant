@@ -19,6 +19,9 @@
     A sleek and fully responsive restaurant website built with HTML, Tailwind CSS, and JavaScript.  
     Smooth AOS animations, interactive menu filtering, and a polished, chef-inspired UI.
   </p>
+
+[![Live Demo](https://img.shields.io/badge/-🚀%20Live%20Demo-blue?style=for-the-badge)](https://twogood-scroll.vercel.app/)
+
 </div>
 
 ---
