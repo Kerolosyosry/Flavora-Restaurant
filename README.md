@@ -83,8 +83,8 @@ Simply open the `index.html` file in your browser, or use the Live Server extens
 
 Let’s connect!
 
-* GitHub: [YourUsername](https://github.com/Itssanthoshhere)
-* LinkedIn: [Your Name](https://linkedin.com/in/thesanthoshvs)
+* GitHub: [Itssanthoshhere](https://github.com/Itssanthoshhere)
+* LinkedIn: [Santhosh VS](https://linkedin.com/in/thesanthoshvs)
 
 ---
 
