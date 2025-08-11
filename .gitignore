@@ -21,5 +21,3 @@ build/
 .env.test.local
 .env.production.local
 
-# Tailwind generated CSS
-src/output.css
