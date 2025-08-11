@@ -2,7 +2,7 @@
 <div align="center">
   <br />
     <a href="https://your-website-link.com" target="_blank">
-      <img src="assets/readme/hero.png" alt="Project Banner">
+      <img src="src/assets/readme/hero.png" alt="Project Banner">
     </a>
   <br />
 
